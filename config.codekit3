@@ -9,142 +9,6 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/bootstrap\/.babelrc.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.babelrc-min.js",
-		"oF": 1,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bootstrap\/.bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.bower-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bootstrap\/.editorconfig": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.editorconfig",
-		"oF": 1
-		},
-	"\/bootstrap\/.eslintignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.eslintignore",
-		"oF": 1
-		},
-	"\/bootstrap\/.eslintrc.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.eslintrc-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bootstrap\/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.gitattributes",
-		"oF": 1
-		},
-	"\/bootstrap\/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.gitignore",
-		"oF": 1
-		},
-	"\/bootstrap\/.stylelintignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.stylelintignore",
-		"oF": 1
-		},
-	"\/bootstrap\/.stylelintrc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.stylelintrc",
-		"oF": 1
-		},
-	"\/bootstrap\/.travis.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/.travis.yml",
-		"oF": 1
-		},
-	"\/bootstrap\/CNAME": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/CNAME",
-		"oF": 1
-		},
-	"\/bootstrap\/CODE_OF_CONDUCT.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/bootstrap\/CODE_OF_CONDUCT.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bootstrap\/composer.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/composer-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bootstrap\/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/favicon.ico",
-		"oF": 1
-		},
-	"\/bootstrap\/Gemfile": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/Gemfile",
-		"oF": 1
-		},
-	"\/bootstrap\/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/Gemfile.lock",
-		"oF": 1
-		},
-	"\/bootstrap\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/index.html",
-		"oF": 1
-		},
 	"\/bootstrap\/js\/dist\/alert.js": {
 		"ft": 64,
 		"ma": 0,
@@ -701,72 +565,6 @@
 		"oA": 1,
 		"oAP": "\/bootstrap\/js\/tests\/visual\/tooltip.html",
 		"oF": 1
-		},
-	"\/bootstrap\/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/LICENSE",
-		"oF": 1
-		},
-	"\/bootstrap\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/package-lock-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bootstrap\/package.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bootstrap\/package-min.js",
-		"oF": 1,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bootstrap\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/package-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bootstrap\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/bootstrap\/README.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bootstrap\/robots.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/bootstrap\/robots.txt",
-		"oF": 1
-		},
-	"\/bootstrap\/sache.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bootstrap\/sache-min.json",
-		"oF": 1,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/bootstrap\/scss\/_alert.scss": {
 		"aP": 0,
@@ -1847,16 +1645,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bootstrap\/sw.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bootstrap\/sw-min.js",
-		"oF": 1,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1890,6 +1678,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1911,7 +1709,7 @@
 "projectAttributes": {
 	"creationDate": 548777327,
 	"displayValue": "andymathers.github.com",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-dunnoGirl",
 	"iconImageWasSetByUser": 0
 	},
