@@ -1,2 +1,15 @@
-// Required
+// Your variable overrides
+$body-bg: #fff;
+$body-color: #111;
+
+.navbar-toggler {
+  border: 0px !important;
+}
+
+//** Global textual link color.
+$link-color: green;
+
+
+
+// Bootstrap and its default variables
 @import "../bootstrap/scss/bootstrap";
