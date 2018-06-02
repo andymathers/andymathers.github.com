@@ -5,16 +5,19 @@
 $body-bg: #fff;
 $body-color: #111;
 
-.border-3 {
-    border-width:3px !important;
-}
+$lead-font-size: 1.65rem;
 
 .navbar-toggler {
   border: 0px !important;
 }
 
+h1, h2 {
+  font-family: 'Trocchi', serif !important;
+}
+
 //** Global textual link color.
 $link-color: green;
+$link-decoration: underline;
 
 
 

@@ -2,11 +2,11 @@
   margin-left: 5%;
   padding-top: 65px; }
 
-.border-3 {
-  border-width: 3px !important; }
-
 .navbar-toggler {
   border: 0px !important; }
+
+h1, h2 {
+  font-family: 'Trocchi', serif !important; }
 
 /*!
  * Bootstrap v4.1.0 (https://getbootstrap.com/)
@@ -148,7 +148,7 @@ sup {
 
 a {
   color: green;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
@@ -333,7 +333,7 @@ h6, .h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.65rem;
   font-weight: 300; }
 
 .display-1 {
