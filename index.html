@@ -14,6 +14,25 @@
   </head>
   <body>
 
+
+  <!-- Modal -->
+  <div class="modal fade bd-example-modal-lg" id="squiggleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h1>Headline</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis porttitor consequat. Praesent vitae bibendum nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam dictum sapien a velit porta, quis maximus turpis venenatis. Ut viverra nec ante non finibus. Ut augue quam, suscipit nec aliquet in, luctus at orci. Integer nec suscipit dolor. Nulla congue enim ut enim posuere consequat. Pellentesque a lacus venenatis, ullamcorper eros ut, accumsan augue.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" role="navigation">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,17 +62,17 @@
       <img src="img/squiggle-drawing-teal.svg" class="img-fluid home-hero" alt="Squiggle drawing: the design process.">
     </section>
 
-    <section id="introduction" class="mx-auto w-75 pb-5">
+    <section id="introduction" class="mx-auto w-75 pb-5" style="height:50vh;">
         <h1>Welcome</h1>
         <p class="lead border-bottom pb-3">I’m Andy Mathers, a senior UX/UI designer with over twenty years of work experience; skilled in researching, defining, prototyping and designing iteratively to improve customer experiences.</p>
         <i class="fas fa-question-circle"></i>
-        <a href>What’s with the squiggly drawing?</a>
+        <a href="#" data-toggle="modal" data-target="#squiggleModal">What’s with the squiggly drawing?</a>
     </section>
 
-    <section id="past present" class="bg-dark text-white">
+    <section id="past present" class="bg-light">
       <div class="mx-auto w-75 py-5">
       <h2>Past and Present</h2>
-      <img src="img/andy-mathers.png" alt="Andy Mathers" class="float-right border rounded-circle">
+      <img src="img/andy-mathers.png" alt="Andy Mathers" class="float-right ml-4 border rounded-circle">
       <p>Since 1995, I’ve been fortunate to be involved in a variety of projects — from designing declassified NASA visualizations, packaging design for TIME, CD-ROM learning guides for kids, e-commerce and marketing websites, branding collateral for startups, responsive web and mobile applications and even a trading card set for a sci-fi television show!ique posuere.</p>
 
       <p>Currently I am a Senior UX/UI Designer at Leidos working to improve the customer experience and interface design for Department of Defense (DoD) web applications</p>
@@ -140,12 +159,12 @@
   </main>
 
   <footer role="contentinfo">
-    <a href="https://www.google.com"><i class="fas fa-envelope" aria-label="email Andy" title="email Andy"></i></a>
-    <a href="https://www.google.com"><i class="fab fa-linkedin" aria-label="view Andy's profile LinkedIn" title="view Andy's profile LinkedIn"></i></a>
-    <a href="https://www.google.com"><i class="fab fa-twitter-square" aria-label="follow Andy on Twitter" title="follow Andy on Twitter"></i></a>
-    <a href="https://www.google.com"><i class="fab fa-behance-square" aria-label="view Andy's additional work on Behance" title="view Andy's additional work on Behance"></i></a>
-     <p>Copyright &copy; Andy Mathers 2018</p>
-     <a href="#">Colophon</a>
+    <a href="mailto:andy@andymathers.com" target="_blank"><i class="fas fa-envelope" aria-label="email Andy" title="email Andy"></i></a>
+    <a href="https://www.linkedin.com/in/andymathers/" target="_blank"><i class="fab fa-linkedin" aria-label="view Andy's profile LinkedIn" title="view Andy's profile LinkedIn"></i></a>
+    <a href="https://twitter.com/andymathers" target="_blank"><i class="fab fa-twitter-square" aria-label="follow Andy on Twitter" title="follow Andy on Twitter"></i></a>
+    <a href="https://www.google.com" target="_blank"><i class="fab fa-behance-square" aria-label="view Andy's additional work on Behance" title="view Andy's additional work on Behance"></i></a>
+    <p>Copyright &copy; Andy Mathers 2018</p>
+    <a href="#">Colophon</a>
   </footer>
 
 

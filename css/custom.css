@@ -8,6 +8,9 @@
 h1, h2 {
   font-family: 'Trocchi', serif !important; }
 
+.bg-01 {
+  background-color: #FFC0CB; }
+
 /*!
  * Bootstrap v4.1.0 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -148,7 +151,7 @@ sup {
 
 a {
   color: green;
-  text-decoration: underline;
+  text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
